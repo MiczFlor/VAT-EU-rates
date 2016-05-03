@@ -4,7 +4,7 @@
 * This list comes without warranty!!!
 * date: 2016-04-25
 */
-$EU-VAT = array(
+$EU_VAT = array(
   "BE" => "21";
   "BG" => "20";
   "CZ" => "21";
